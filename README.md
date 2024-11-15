@@ -46,7 +46,7 @@ Este projeto é uma aplicação web simples e responsiva que gera uma senha inic
    - Conta o número de vogais no nome completo e retorna um valor com dois dígitos.
 ### Exemplo de Geração
 Entrada: `João Silva de Almeida`  
-Saída: `almeida06`
+Saída: `almeida10`
 ---
 ## 🌐 Responsividade
 O layout foi projetado para ser acessível em dispositivos de diferentes tamanhos de tela, adaptando-se automaticamente para melhorar a experiência do usuário.
