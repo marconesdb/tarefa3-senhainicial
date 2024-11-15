@@ -26,7 +26,7 @@ Este projeto é uma aplicação web simples e responsiva que gera uma senha inic
 ## 🎯 Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/marconesdb/tarefa3-senhainicial.git
    ```
 2. Abra o arquivo `index.html` em qualquer navegador.
 ---
